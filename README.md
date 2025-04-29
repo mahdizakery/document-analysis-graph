@@ -46,7 +46,7 @@ This project demonstrates how to use [LangGraph](https://github.com/langchain-ai
 - [LangGraph Documentation](https://langgraph.langchain.com/)
 - [LangChain Google GenAI](https://python.langchain.com/docs/integrations/chat/google_genai)
 - [Google Gemini API](https://ai.google.dev/)
-- [Hugging Face Agents Course](https://huggingface.co/learn/agents) – educational material
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course) – educational material
 
 ---
 
